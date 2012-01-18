@@ -17,4 +17,4 @@ Then to sync up:
     repo sync
 
 We want to add a huge shout out to Pete Alfonso. We built AOSP a few times and Pete's builds were so clean and did 
-a lot of the legwork We decided to fork them instead of re-inventing the wheel. We am hoping to build on what he has started.
+a lot of the legwork we decided to fork them instead of re-inventing the wheel. We are hoping to build on what he has started.
